@@ -1,0 +1,4 @@
+__pycache__/
+.env
+expenses.db
+.pytest_cache/
